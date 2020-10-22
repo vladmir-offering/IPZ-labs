@@ -1,0 +1,169 @@
+gui=
+{
+	language=l_english
+	has_set_language=yes
+}
+graphics=
+{
+	size=
+	{
+		x=1920
+		y=1080
+	}
+
+	gui_scale=1.000000
+	gui_scale_min=1.000000
+	gui_scale_max=3.000000
+	gui_scale_font_replacement=1.010000
+	refreshRate=0
+	fullScreen=no
+	borderless=yes
+	shadows=no
+	shadowSize=2048
+	multi_sampling=0
+	anisotropic_filtering=0
+	gamma=50.000000
+	vsync=yes
+	override_resolution_safety=no
+}
+sound_fx_volume=36.000000
+music_volume=32.000000
+scroll_speed=50.000000
+camera_rotation_speed=50.000000
+zoom_speed=50.000000
+mouse_speed=50.000000
+master_volume=36.000000
+ambient_volume=28.000000
+dynamic_sound=no
+dynamic_sound_treshold=50.000000
+mapRenderingOptions=
+{
+	draw_terrain=yes
+	draw_water=yes
+	draw_borders=yes
+	draw_trees=yes
+	draw_rivers=yes
+	draw_postfx=yes
+	draw_sky=yes
+	draw_bloom=no
+	draw_tooltips=yes
+	draw_hires_terrain=no
+	draw_citysprawl=yes
+}
+camera_speed=50.000000
+camera_tilt=100.000000
+centered_zoom_in=yes
+lastplayer=""
+lasthost=""
+serveradress="diplomacy.valkyrienet.com"
+autosave="YEARLY"
+difficulty="NORMAL"
+outliner={1 2 3 4 5 6 7 9 18}
+outliner_open=no
+windowmovetime=0.200000
+disable_wikipedia_links=no
+nudge_allowed=no
+has_disabled_welcome_screen=no
+shown_privacy_version=""
+shown_legal_documents=
+{
+	privacy-policy-2018-11-02 
+}
+hints=no
+ironman=no
+mp_max_day_lead=7
+compress_autosaves=no
+autosaves_to_keep=0
+last_mods=
+{
+	"mod/ck2_rus_full.mod.mod" 
+}
+low_res_textures=no
+force_pow2_textures=no
+last_used_id=""
+context_music=yes
+death_sound=yes
+province_embellishment=yes
+transparent_wastelands=yes
+wasteland_adjacency_coloring=yes
+main_menu_tab_open=no
+last_event_shown="kulin_bosnia"
+steam_rich_presence=yes
+dismissed_rtt=yes
+dismissed_splash=yes
+game_rules=
+{
+	epidemics="dynamic"
+	minor_epidemics="default"
+	mongol_invasion="historical"
+	aztec_invasion="historical"
+	generate_families="on"
+	exclave_purge="off"
+	chinese_invasions="default"
+	chinese_interactions="within_range"
+	unjustified_wars="on"
+	jade_dragon_cbs="on"
+	devil_worshipers="default"
+	secret_cults="default"
+	turkic_invasions="historical"
+	non_epidemic_diseases="default"
+	shattered_retreat="on"
+	army_movement_lock="on"
+	siege_assaults="on"
+	siege_events="on"
+	defensive_pacts="on"
+	gender="default"
+	supernatural_events="on"
+	silly_events="on"
+	dejure_drift="default"
+	dejure_drift_duration="default"
+	de_jure_requirement="default"
+	nomad_stability="unstable"
+	culture_conversion="default"
+	religious_conversion="default"
+	raiding="historical"
+	adventurers="normal"
+	interfaith_marriages="restricted"
+	matrilineal_marriages="on"
+	dynamic_realms="on"
+	charlemagne_story="on"
+	otto_story="on"
+	vassal_republics="restricted"
+	vassal_theocracies="restricted"
+	invitation="default"
+	diplo_range="on"
+	provincial_revolts="normal"
+	provincial_revolt_strength="default"
+	defensive_attrition="on"
+	pagan_reformation="allowed"
+	regencies="on"
+	diplo_assassination="off"
+	ai_seduction="on"
+	ai_intrigue="on"
+	dueling="default"
+	punishment_release_prisoner="on"
+	dynasty_title_names="on"
+	cultural_title_names="on"
+	multiplayer_assassinations="free"
+	multiplayer_invasions="on"
+	multiplayer_third_party_claims="on"
+	demesne_size="default"
+	vassal_limit="default"
+	grant_independence="restricted"
+	conclave_education_focuses="close_relatives"
+	dynamic_crusader_states="default"
+	shepherds_crusade="on"
+	fourth_crusade="on"
+	childrens_crusade="on"
+	northern_crusade="on"
+	reconquista="on"
+	child_of_destiny="on"
+	pregnancy_flavor="on"
+	martial_headgear="on"
+	non_aggression_pacts_block_factions="on"
+	blood_splatter_rule="on"
+	hellenism_rule="on"
+	wonder_rule="on"
+	wonder_rule_historical="on"
+	court_limit_rule="on"
+}
